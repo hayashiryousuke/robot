@@ -1,2 +1,2 @@
 # robot
-ロボット体験実習
+brains
